@@ -9,6 +9,7 @@ https://github.com/leonardo-terra/stranger-things-backend
 ## Retornos
 A lista de personagem possui os seguintes campos:
 
+
 name: Nome da personagem;
 
 status: se a personagem está viva ou não na série. Os valores possíveis são alive, deceased ou unknown;
